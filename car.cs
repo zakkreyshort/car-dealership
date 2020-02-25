@@ -41,6 +41,10 @@ public class Program
   {
     CarsMatchingSearch.Add(automobile);
   }
+  if (maxPrice < automobile.Price)
+  {
+    Console.WriteLine("No results to display.");
+  }
 }
     foreach(Car automobile in CarsMatchingSearch)
     {
