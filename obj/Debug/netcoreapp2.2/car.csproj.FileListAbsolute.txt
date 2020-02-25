@@ -9,3 +9,14 @@
 /Users/Guest/Desktop/car-dealership/obj/Debug/netcoreapp2.2/car.AssemblyInfo.cs
 /Users/Guest/Desktop/car-dealership/obj/Debug/netcoreapp2.2/car.dll
 /Users/Guest/Desktop/car-dealership/obj/Debug/netcoreapp2.2/car.pdb
+/Users/zakkreyshort/Desktop/car-dealership/obj/Debug/netcoreapp2.2/car.csprojAssemblyReference.cache
+/Users/zakkreyshort/Desktop/car-dealership/obj/Debug/netcoreapp2.2/car.csproj.CoreCompileInputs.cache
+/Users/zakkreyshort/Desktop/car-dealership/obj/Debug/netcoreapp2.2/car.AssemblyInfoInputs.cache
+/Users/zakkreyshort/Desktop/car-dealership/obj/Debug/netcoreapp2.2/car.AssemblyInfo.cs
+/Users/zakkreyshort/Desktop/car-dealership/obj/Debug/netcoreapp2.2/car.dll
+/Users/zakkreyshort/Desktop/car-dealership/obj/Debug/netcoreapp2.2/car.pdb
+/Users/zakkreyshort/Desktop/car-dealership/bin/Debug/netcoreapp2.2/car.deps.json
+/Users/zakkreyshort/Desktop/car-dealership/bin/Debug/netcoreapp2.2/car.runtimeconfig.json
+/Users/zakkreyshort/Desktop/car-dealership/bin/Debug/netcoreapp2.2/car.runtimeconfig.dev.json
+/Users/zakkreyshort/Desktop/car-dealership/bin/Debug/netcoreapp2.2/car.dll
+/Users/zakkreyshort/Desktop/car-dealership/bin/Debug/netcoreapp2.2/car.pdb
