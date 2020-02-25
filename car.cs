@@ -12,9 +12,9 @@ public class Car
     Price = price;
     Miles = miles;
   }
-   public bool WorthBuying(int maxPrice)
+   public bool WorthBuying(int maxPrice, int maxMiles)
    {
-    return (Price < maxPrice);
+    return ((Price < maxPrice && Miles < maxMiles));
   }  
 }
 
@@ -31,10 +31,13 @@ public class Program
     Console.WriteLine("Enter maximum price: ");
     string stringMaxPrice = Console.ReadLine();
     int maxPrice = int.Parse(stringMaxPrice);
+    Console.WriteLine("Enter max mileage: ");
+    string stringMaxMiles = Console.ReadLine();
+    int maxMiles = int.Parse(stringMaxMiles);
     List<Car> CarsMatchingSearch = new List<Car>(0);
     foreach (Car automobile in Cars)
 {
-  if (automobile.WorthBuying(maxPrice))
+  if (automobile.WorthBuying(maxPrice, maxMiles))
   {
     CarsMatchingSearch.Add(automobile);
   }
